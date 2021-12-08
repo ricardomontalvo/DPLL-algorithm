@@ -6,7 +6,8 @@
 Example of use:
 
 Knowledge base:
-![](images/kb.png)
+<img src="images/kb.png" width="250"/>
 
 Output:
 ![](images/model.png)
+
